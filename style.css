@@ -311,9 +311,9 @@ form {
   margin: 1rem 1.5rem 1.5rem 1.5rem;
 }
 
-input[type=text]
-input[type=email]
-input[type=number]
+input[type=text],
+input[type=email],
+input[type=number],
 
 textarea {
   padding: 10px;
